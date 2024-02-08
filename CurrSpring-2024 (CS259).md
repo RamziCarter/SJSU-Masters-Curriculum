@@ -15,3 +15,16 @@ Starting monday meet in ISB: 878
 
 
 ```
+
+Day 3
+```
+
+```
+
+
+
+Day 4
+```
+Three distinct sections
+- hardware software and presentations
+```
