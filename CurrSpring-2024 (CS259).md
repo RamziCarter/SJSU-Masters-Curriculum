@@ -28,3 +28,9 @@ Day 4
 Three distinct sections
 - hardware software and presentations
 ```
+
+
+Day 5
+```
+Assembly language, how parrallelism using a pipeline architechture can increase your throughput. In  theory
+```3
