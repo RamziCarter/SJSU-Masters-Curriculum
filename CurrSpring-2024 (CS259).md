@@ -33,4 +33,19 @@ Three distinct sections
 Day 5
 ```
 Assembly language, how parrallelism using a pipeline architechture can increase your throughput. In  theory
-```3
+```
+
+Abstract and Title for research paper
+```
+
+  Title: Exploring Parallel Proccessing in Game Development
+  
+- Detailed overview of parallel computing (parallelism, concurrency, multi-core CPUs & GPUs)
+- Collision detection, movement, surface dynamics, AI behavior of bots in games
+- Rendering, shading of scenery, lighting, color, shadows
+- Graphics rendering, DirectX, Performance modes
+- Hardware optimization, challenges and trade-offs, core usage, caching and load balancing
+
+
+
+```
