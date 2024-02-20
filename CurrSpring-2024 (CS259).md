@@ -35,9 +35,10 @@ Day 5
 Assembly language, how parrallelism using a pipeline architechture can increase your throughput. In  theory
 ```
 
-Abstract and Title for research paper
-```
 
+Day 6
+```
+  Abstract and Title for research paper
   Title: Exploring Parallel Proccessing in Game Development
   
 - Detailed overview of parallel computing (parallelism, concurrency, multi-core CPUs & GPUs)
@@ -48,4 +49,19 @@ Abstract and Title for research paper
 
 
 
+```
+
+Day 7
+```
+Knoppix environment for homework 1
+
+March 11
+- midterm 1
+- hw 1 due
+April 8
+- midterm 2
+- hw 2 due
+April 10
+- presentation start
+- 3 per session
 ```
