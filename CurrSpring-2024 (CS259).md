@@ -71,3 +71,11 @@ Homework 1
 ![Question 1A](https://github.com/RamziCarter/SJSU-Masters-Curriculum/blob/b0ed22ef058b737ef84db46328ec6980ec5636ab/Question1A.png)
 
 ![Question 1B](https://github.com/RamziCarter/SJSU-Masters-Curriculum/blob/c59cef678f6d079ec963b917d044dadfa73d56c4/Question1B.png)
+
+```
+When running the program normally the output is on two different lines.
+Line 1 is printed then the new line escape sequence executes then line 2 is printed.
+
+Running the program with the redirected output file seems to buffer the entire output on a single line.
+This makes it look like the execution is all the same print statement
+```
