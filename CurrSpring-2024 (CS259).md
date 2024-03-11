@@ -74,8 +74,11 @@ Homework 1
 
 ```
 When running the program normally the output is on two different lines.
-Line 1 is printed then the new line escape sequence executes then line 2 is printed.
+Line 1 is printed then the new line escape sequence executes then line 2 is printed. When the printf is executed the buffer flushes itself
 
 Running the program with the redirected output file seems to buffer the entire output on a single line.
-This makes it look like the execution is all the same print statement
+This makes it look like the execution is all the same print statement. Because the output is written to a txt file the buffer is not flushed as often.
+This can even allow a bunch of printf statementrs to be buffered together, giving the effect that they are all in the same print statement
+
+To get the outputs to show up correctly, I could call fflush(stdout); to manually flush the buffer after each print statement
 ```
