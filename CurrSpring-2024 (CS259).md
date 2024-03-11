@@ -67,6 +67,7 @@ April 10
 ```
 
 Homework 1
+---
 
 ![Question 1A](https://github.com/RamziCarter/SJSU-Masters-Curriculum/blob/b0ed22ef058b737ef84db46328ec6980ec5636ab/Question1A.png)
 
@@ -82,3 +83,8 @@ This can even allow a bunch of printf statementrs to be buffered together, givin
 
 To get the outputs to show up correctly, I could call fflush(stdout); to manually flush the buffer after each print statement
 ```
+
+
+
+
+---
