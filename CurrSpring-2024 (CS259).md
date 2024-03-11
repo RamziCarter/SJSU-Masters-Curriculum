@@ -68,6 +68,6 @@ April 10
 
 Homework 1
 
-!(Question 1A)[]
+!(Question 1A)[https://github.com/RamziCarter/SJSU-Masters-Curriculum/blob/b0ed22ef058b737ef84db46328ec6980ec5636ab/Question1A.png]
 
 !{Question 1B}[]
