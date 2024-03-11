@@ -66,7 +66,8 @@ April 10
 - 3 per session
 ```
 
-Day8
-```
+Homework 1
 
-```
+!(Question 1A)[]
+
+!{Question 1B}[]
