@@ -84,7 +84,7 @@ This can even allow a bunch of printf statementrs to be buffered together, givin
 To get the outputs to show up correctly, I could call fflush(stdout); to manually flush the buffer after each print statement
 ```
 
-![]()
+![](https://github.com/RamziCarter/SJSU-Masters-Curriculum/blob/888c5f27844874a269567cf207648bb82c15dcb3/Question2A.png)
 ![]()
 
 ```
